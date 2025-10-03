@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Hola mundo</title>
+</head>
+<body>
+    <h1>Hola mundo</h1>
+</body>
+</html>
